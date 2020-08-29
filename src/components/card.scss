@@ -1,0 +1,10 @@
+.card {
+  display: flex;
+
+  &__image-container {
+    img {
+      height: 100px;
+      width: 100px;
+    }
+  }
+}
