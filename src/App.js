@@ -1,8 +1,8 @@
 import React from "react";
-import "./App.css";
-import NavBar from "./components/nav_bar";
 
+import NavBar from "./components/nav_bar";
 import Results from "./components/results";
+
 import "./app.scss";
 
 function App() {
